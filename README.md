@@ -28,7 +28,7 @@ The algorithm uses two moving averages calculated daily:
 | PSR (Probabilistic Sharpe Ratio) | 3.949% |
 
 ## Strategy Equity Chart
-![Backtest Results](results.png)
+![Backtest Results](Screenshot 2026-04-29 at 20.14.12.png)
 
 
 ## Key Findings
