@@ -27,6 +27,10 @@ The algorithm uses two moving averages calculated daily:
 | Total Volume Traded | $1,542,150.76 |
 | PSR (Probabilistic Sharpe Ratio) | 3.949% |
 
+## Strategy Equity Chart
+![Backtest Results](results.png)
+
+
 ## Key Findings
 - Strategy provided meaningful downside protection during the 2022 bear 
   market by exiting to cash when momentum turned negative, avoiding full 
@@ -62,3 +66,5 @@ as a next step.
 - Extend to multi-asset portfolio with correlation-based position sizing
 - Apply same framework to clinical time-series data (patient outcomes, 
   treatment response intervals)
+
+  
